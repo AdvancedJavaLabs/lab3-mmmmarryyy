@@ -1,0 +1,9 @@
+.idea
+questions.txt
+.gradle
+build/
+generate.py
+.DS_Store
+csv_files
+csv_files_enlarged
+csv_files_test
